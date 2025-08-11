@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Done with Kap
 
-[Guide]](https://i.imgur.com/GPpW7yH.gif) .
+![Guide](https://i.imgur.com/GPpW7yH.gif) .
 
 ## App Brainstorming 
 
